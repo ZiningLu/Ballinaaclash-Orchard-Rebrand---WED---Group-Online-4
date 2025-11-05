@@ -25,3 +25,4 @@ This project aimed to deliver a new brand identity system, including a logo, col
 - `/guidelines/`：Brand Guidelines (Figma Export PDF)
 - `/collateral/`：Packaging/Ticket/Guide Templates
 - `/web/`：Website branding examples (screenshots or sample code)
+
